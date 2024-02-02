@@ -7,24 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_xerrycan" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_xerrycan?logo=twitter&style=for-the-badge" alt="i_am_xerrycan" /></a> </p>
 
-- 🌱 I’m currently learning **React , nodejs, mongodb**
+- 🌱 I’m currently learning **express, nodejs*
 
-- 👨‍💻 All of my projects are available at [dfg](dfg)
-
-- 💬 Ask me about **Java ,HTML , Css, Js , GIT ,**
+- 💬 Ask me about **Javascript ,HTML , Css, React , GIT ,**
 
 - 📫 How to reach me **rajshish333@gmail.com**
 
-- 📄 Know about my experiences [df](df)
-
-- ⚡ Fun fact **ghj**
+- ⚡ Fun fact **Life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_am_xerrycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_am_xerrycan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/iamxerrycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamxerrycan" height="30" width="40" /></a>
 <a href="https://instagram.com/i_am_xerrycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_xerrycan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/i_am_xerrycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="i_am_xerrycan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
