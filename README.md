@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamxerrycan" alt="iamxerrycan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/i_am_xerrycan" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_xerrycan?logo=twitter&style=for-the-badge" alt="i_am_xerrycan" /></a> </p>
-
 - 📫 How to reach me **rajshish333@gmail.com**
 
 - ⚡ Fun fact **Life**
