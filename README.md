@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://rajshish-portfolio.netlify.app/" target="_blank">
-  <img align="center" src="https://example.com/path-to-your-portfolio-icon.svg" alt="Portfolio" height="30" width="40" />
+  <img align="center" src="https://avatars.githubusercontent.com/u/80442999?s=400&u=4ac089beaabd483282502991265db36e192bb94c&v=4" alt="Portfolio" height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/iamxerrycan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamxerrycan" height="30" width="40" /></a>
 </p>
