@@ -7,10 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_xerrycan" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_xerrycan?logo=twitter&style=for-the-badge" alt="i_am_xerrycan" /></a> </p>
 
-- 🌱 I’m currently learning **express, nodejs*
-
-- 💬 Ask me about **Javascript ,HTML , Css, React , GIT ,**
-
 - 📫 How to reach me **rajshish333@gmail.com**
 
 - ⚡ Fun fact **Life**
