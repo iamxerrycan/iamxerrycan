@@ -52,6 +52,13 @@
 
 ---
 
+### 🧭 Swapmate swap items
+- React + REST API, status filters, Toast notifications, MERN stack
+- 🔗 [Live Demo](https://swapmate.netlify.app/)
+- 📦 [GitHub Repo](https://github.com/iamxerrycan/swapmate)
+
+---
+
 ### 🌦️ Weather Forecast App
 - Built with React and OpenWeatherMap API
 - Search by city, real-time weather updates, icons, error handling
