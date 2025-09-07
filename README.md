@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajshish Singh</h1>
-<h3 align="center">React Front-End Developer | 1+ YOE | Open Source Contributor | Open to Work</h3>
+<h1 align="center">Hi 👋, I'm Rajshish Singh MERN Developer </h1>
+<h3 align="center">React Front-End Developer With Backend and Testing experties | Open Source Contributor | Open to Work</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamxerrycan&label=Profile%20views&color=0e75b6&style=flat" alt="iamxerrycan" />
